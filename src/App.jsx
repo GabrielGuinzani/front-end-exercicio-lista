@@ -8,9 +8,7 @@ function App() {
       </header>
       <div className="lista-compras-container">
         <ul className="lista-items">
-          <li>Queijo</li>
-          <li>Leite</li>
-          <li>Pão</li>
+          
         </ul>
       </div>
       <form className="form-add-item" action="#" method="post">
