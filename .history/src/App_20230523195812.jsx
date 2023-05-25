@@ -1,5 +1,4 @@
 import "./App.css";
-import Lista from "./components/Lista";
 
 function App() {
   return (
@@ -9,7 +8,7 @@ function App() {
       </header>
       <div className="lista-compras-container">
         <ul className="lista-items">
-          
+          <li>Lista 1</li>
         </ul>
       </div>
       <form className="form-add-item" action="#" method="post">

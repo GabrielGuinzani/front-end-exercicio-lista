@@ -9,7 +9,7 @@ function App() {
       </header>
       <div className="lista-compras-container">
         <ul className="lista-items">
-          
+          <li>Lista 1g</li>
         </ul>
       </div>
       <form className="form-add-item" action="#" method="post">
